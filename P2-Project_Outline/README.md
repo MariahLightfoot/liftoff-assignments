@@ -13,29 +13,29 @@ We will provide a random restaurant recommendation for those hangry moments.
 All local St. Louis CITY restaurants that are under $25 for one person, chains excluded. 
 Have more time? Feel free to browse through our full list of restaurants.
 ### Features
-User Authentication
-Restaurant Rating/Like
-Search
-Filter
-Map API
+User Authentication<br />
+Restaurant Rating/Like<br />
+Search<br />
+Filter<br />
+Map API<br />
 
 ### Technologies
-Flask
-Python
-React
-JavaScript
-Bootstrap
-Fontawesome
-Maps API 
+Flask<br />
+Python<br />
+React<br />
+JavaScript<br />
+Bootstrap<br />
+Fontawesome<br />
+Maps API<br />
 
 ### What I'll Have to Learn
-Flask
-Python
-React
-JavaScript
-Bootstrap
-Fontawesome
-Maps Api
+Flask<br />
+Python<br />
+React<br />
+JavaScript<br />
+Bootstrap<br />
+Fontawesome<br />
+Maps Api<br />
 
 ### Project Tracker
 https://trello.com/b/72CnqvxD/stfueat
