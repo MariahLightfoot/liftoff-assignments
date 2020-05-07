@@ -7,12 +7,35 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We have all been there. With a group of friends, starving, but no one can decide where to eat.
+STFU&EAT is the app for people who can’t make decisions on where to eat. 
+We will provide a random restaurant recommendation for those hangry moments. 
+All local St. Louis CITY restaurants that are under $25 for one person, chains excluded. 
+Have more time? Feel free to browse through our full list of restaurants.
 ### Features
-Include Features here
+User Authentication
+Restaurant Rating/Like
+Search
+Filter
+Map API
+
 ### Technologies
-Include Technologies here
+Flask
+Python
+React
+JavaScript
+Bootstrap
+Fontawesome
+Maps API 
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Flask
+Python
+React
+JavaScript
+Bootstrap
+Fontawesome
+Maps Api
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/72CnqvxD/stfueat
